@@ -1,1 +1,6 @@
-  Eu sou o Bryan, e estou aprendendo Versionamento de código. 
+  Eu sou o Bryan, e estou aprendendo Versionamento de código.
+
+#Voz Aluno
+##Opinião dos alunos
+**Um site onde os alunos da escola podem mostrar sua opinião para melhorar a escola**
+emoji 😉
